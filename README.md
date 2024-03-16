@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Vincent
+
+I'm a web developer with 8 years of experience who lives in Taiwan. I'm always have passion to learn new things, trying to do better. I'm also a big extreme sports enthusiast. When I'm not being indoorsy or at the computer you can find me climbing around the rock walls or running around the river side when it's sunny.
+
+- ☕ I love coffee
+- ⛰ I am a rock climber
+- 📚 Ask me about what I read last year
+- 🌱 Learning **Remix** and **Prisma**
+- 🪴 Just getting started with **digital gardening**
+- 📫 Reach me: https://www.linkedin.com/in/vincentchang402/
 
 <!--
 **vincechang/vincechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
